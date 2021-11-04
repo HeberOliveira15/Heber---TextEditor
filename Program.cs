@@ -7,7 +7,7 @@ namespace TextEditor
     {
         static void Main(string[] args)
         {
-            Editar();
+            Menu();
         }
         static void Menu()
         {
